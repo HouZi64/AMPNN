@@ -24,7 +24,7 @@ code：p2vm
 Please cite our paper if you use this code in your own work:
 
 ```bash
-@article{kipf2016semi,
+@article{
   title={Estimating rainfall from surveillance audio based on parallel network with multi-scale fusion and attention mechanism},
 }
 ```
